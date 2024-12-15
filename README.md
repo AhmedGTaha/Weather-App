@@ -50,7 +50,7 @@ For the city **London**, the app might display:
 2. Replace the `key` variable in the JavaScript code with your API key.
 
 ```javascript
-const key = "f25235f4847e25590352749defc2b613";
+const key = "putYourKeyHere";
 ```
 
 ---
