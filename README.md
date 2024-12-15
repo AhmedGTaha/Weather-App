@@ -17,6 +17,7 @@
 - **CSS**: For styling and responsive design.
 - **JavaScript**: For handling API requests and DOM manipulation.
 - **OpenWeatherMap API**: For weather data.
+- This project was possible to finish due to the amazing vedio of Bro Code: https://youtu.be/lfmg-EJ8gm4?si=asRDKYx32C6R5PB3
 
 ---
 
